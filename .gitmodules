@@ -1,0 +1,12 @@
+[submodule "Ej1_Saludo2Activities"]
+	path = Ej1_Saludo2Activities
+	url = https://github.com/alejandrtf/Ej1_Saludo2Activities
+[submodule "EJ1/Ej1_Saludo2Activities"]
+	path = EJ1/Ej1_Saludo2Activities
+	url = https://github.com/alejandrtf/Ej1_Saludo2Activities
+[submodule "UT1/Ej1_Saludo2Activities"]
+	path = UT1/Ej1_Saludo2Activities
+	url = https://github.com/alejandrtf/Ej1_Saludo2Activities
+[submodule "UT3/EJ2_ActivityGuardarEstado"]
+	path = UT3/EJ2_ActivityGuardarEstado
+	url = https://github.com/alejandrtf/Ej2_ActivityGuardarEstado
