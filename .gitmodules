@@ -10,3 +10,6 @@
 [submodule "UT3/EJ2_ActivityGuardarEstado"]
 	path = UT3/EJ2_ActivityGuardarEstado
 	url = https://github.com/alejandrtf/Ej2_ActivityGuardarEstado
+[submodule "UT3/ActivityEjercicio02"]
+	path = UT3/ActivityEjercicio02
+	url = https://github.com/alejandrtf/ActivityEjercicio02
