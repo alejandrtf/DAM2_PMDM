@@ -13,3 +13,6 @@
 [submodule "UT3/ActivityEjercicio02"]
 	path = UT3/ActivityEjercicio02
 	url = https://github.com/alejandrtf/ActivityEjercicio02
+[submodule "UT4/LayoutEjercicio08-2"]
+	path = UT4/LayoutEjercicio08-2
+	url = https://github.com/alejandrtf/LayoutEjercicio08-2
