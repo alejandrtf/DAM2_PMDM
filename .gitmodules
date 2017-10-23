@@ -22,3 +22,6 @@
 [submodule "UT4/LayoutEjercicio08-4"]
 	path = UT4/LayoutEjercicio08-4
 	url = https://github.com/alejandrtf/LayoutEjercicio08-4
+[submodule "UT4/LayoutsEjercicio12-1"]
+	path = UT4/LayoutsEjercicio12-1
+	url = https://github.com/alejandrtf/LayoutsEjercicio12-1
