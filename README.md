@@ -9,3 +9,5 @@ Ejemplos y ejercicios del módulo PMDM del ciclo DAM
 * **LayoutEjercicio08-2**. Ejercicio que muestra cómo usar un LinearLayout diferente para pantalla vertical y horizontal y manejo de LinearLayout
 * **LayoutEjercicio08-3**. Modificación del Ejercicio LayoutEjercicio08-2 para que al pulsar sobre dos bandas de colores (primero una y luego otra) se intercambien sus textos.
 * **LayoutEjercicio08-4**. Modiificación del ejercicio LayoutEjercicio08-3 en la que ahora se intercambia tanto el texto, como el color de las bandas (y el color del texto de las bandas)
+* **LayoutsEjercicio12-1**. Ejemplo de uso de un RelativeLayout:  textviews de colores distribuidos por la pantalla
+* **LayoutsEjercicio12-2**. Modificación del ejercicio LayoutsEjecicio12-1 en la que se debe añadir una imagen de fondo al layout y añadir transparencia a los cuadros de texto
