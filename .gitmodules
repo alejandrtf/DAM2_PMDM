@@ -28,3 +28,6 @@
 [submodule "UT4/LayoutsEjercicio12-2"]
 	path = UT4/LayoutsEjercicio12-2
 	url = https://github.com/alejandrtf/LayoutsEjercicio12-2
+[submodule "UT2/GestionPermisosEjemplo1"]
+	path = UT2/GestionPermisosEjemplo1
+	url = https://github.com/alejandrtf/GestionPermisosEjemplo1
