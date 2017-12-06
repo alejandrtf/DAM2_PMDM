@@ -37,3 +37,6 @@
 [submodule "UT5/EjemploFragmentsEstaticoPresencial"]
 	path = UT5/EjemploFragmentsEstaticoPresencial
 	url = https://github.com/alejandrtf/EjemploFragmentsEstaticoPresencial.git
+[submodule "UT4/EditText-Ejercicio-15-1"]
+	path = UT4/EditText-Ejercicio-15-1
+	url = https://github.com/alejandrtf/EditText-Ejercicio-15-1
