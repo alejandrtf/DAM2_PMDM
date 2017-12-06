@@ -34,3 +34,6 @@
 [submodule "UT4/CheckBoxes-y-RadioButton-Ej16"]
 	path = UT4/CheckBoxes-y-RadioButton-Ej16
 	url = https://github.com/alejandrtf/CheckBoxes-y-RadioButton-Ej16
+[submodule "UT5/EjemploFragmentsEstaticoPresencial"]
+	path = UT5/EjemploFragmentsEstaticoPresencial
+	url = https://github.com/alejandrtf/EjemploFragmentsEstaticoPresencial.git
