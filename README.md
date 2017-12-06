@@ -2,6 +2,8 @@
 Ejemplos y ejercicios del módulo PMDM del ciclo DAM
 ## UT1
 * **Ej1_Saludo2Activities**. Primer ejemplo visto en clase que saluda usando dos activities.
+## UT2
+* **GestionPermisosEjemplo1**. En este ejemplo se muestra cómo se gestionan los permisos en Android 6.0
 ## UT3
 * **EJ2_ActivityGuardarEstado**. Modificación del primer ejemplo visto en clase para que guarde el estado al girar el dispositivo. Debe guardar el estado del botón MOSTRAR/OCULTAR así como de la etiqueta y cuadro de texto superiores.
 * **ActivityEjercicio02**. Ejercicio que muestra como gestionar a través de los métodos callback el ciclo de vida de una Activity
