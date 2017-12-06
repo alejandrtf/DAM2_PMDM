@@ -44,3 +44,6 @@
 	path = UT4/SpinnerEjercicio15Bis
 	url = https://github.com/alejandrtf/SpinnerEjercicio15Bis.git
 
+[submodule "UT4/ListViewPersonalizadaEj19"]
+	path = UT4/ListViewPersonalizadaEj19
+	url = https://github.com/alejandrtf/ListViewPersonalizadaEj19
