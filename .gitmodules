@@ -40,3 +40,6 @@
 [submodule "UT4/EditText-Ejercicio-15-1"]
 	path = UT4/EditText-Ejercicio-15-1
 	url = https://github.com/alejandrtf/EditText-Ejercicio-15-1
+[submodule "UT4/SpinnerEjercicio15Bis"]
+	path = UT4/SpinnerEjercicio15Bis
+	url = https://github.com/alejandrtf/SpinnerEjercicio15Bis.git
