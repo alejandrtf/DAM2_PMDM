@@ -47,3 +47,6 @@
 [submodule "UT4/ListViewPersonalizadaEj19"]
 	path = UT4/ListViewPersonalizadaEj19
 	url = https://github.com/alejandrtf/ListViewPersonalizadaEj19
+[submodule "UT4/ListViewPersonalizadaEj19Bis"]
+	path = UT4/ListViewPersonalizadaEj19Bis
+	url = https://github.com/alejandrtf/ListViewPersonalizadaEj19Bis.git
