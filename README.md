@@ -19,3 +19,5 @@ Ejemplos y ejercicios del módulo PMDM del ciclo DAM
 * **ListViewPersonalizadaEj19**. Ejercicio para practicar la creación de una ListView con adaptador personalizado pero sin usar el patrón ViewHolder
 * **ListViewPersonalizadaEj19Bis**. Modificación del ejercicio ListViewPersonalizadaEj19 para aplicarle el patrón ViewHolder.
 * **ListViewEjercicio21Complicado**. Ejercicio más avanzado sobre ListView en el que se añaden elementos a una ListView en tiempo de ejecución, se editan y se activan y desactivan botones en tiempo de ejecución.
+## UT5
+* **EjemploFragmentsEstáticoPresencial**. Es el ejemplo hecho en clase de fragments estáticos (el de los equipos de fútbol)
