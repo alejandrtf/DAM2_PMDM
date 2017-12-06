@@ -16,3 +16,4 @@ Ejemplos y ejercicios del módulo PMDM del ciclo DAM
 * **EditText-Ejercicio-15-1**. Es un ejercicio para practicar con EditText y sus eventos.
 * **CheckBoxes-y-RadioButton-Ej16** . Ejercicio que muestra cómo usar CheckBox y RadioButton en Android. Corresponde al ejercicio 16 del Tema 4 de Interfaz de Usuario.
 * **SpinnerEjercicio15Bis**. Ejercicio para practicar el uso de un Spinner y sus eventos.
+* **ListViewPersonalizadaEj19**. Ejercicio para practicar la creación de una ListView con adaptador personalizado pero sin usar el patrón ViewHolder
