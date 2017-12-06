@@ -15,3 +15,4 @@ Ejemplos y ejercicios del módulo PMDM del ciclo DAM
 * **LayoutsEjercicio12-2**. Modificación del ejercicio LayoutsEjecicio12-1 en la que se debe añadir una imagen de fondo al layout y añadir transparencia a los cuadros de texto
 * **EditText-Ejercicio-15-1**. Es un ejercicio para practicar con EditText y sus eventos.
 * **CheckBoxes-y-RadioButton-Ej16** . Ejercicio que muestra cómo usar CheckBox y RadioButton en Android. Corresponde al ejercicio 16 del Tema 4 de Interfaz de Usuario.
+* **SpinnerEjercicio15Bis**. Ejercicio para practicar el uso de un Spinner y sus eventos.
