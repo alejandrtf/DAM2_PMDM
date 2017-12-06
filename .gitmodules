@@ -56,3 +56,6 @@
 [submodule "UT4/ListViewEjercicio21Complicado-2"]
 	path = UT4/ListViewEjercicio21Complicado-2
 	url = https://github.com/alejandrtf/ListViewEjercicio21Complicado-2.git
+[submodule "UT6/ComunicacionActivitiesEj02"]
+	path = UT6/ComunicacionActivitiesEj02
+	url = https://github.com/alejandrtf/ComunicacionActivitiesEj02.git
