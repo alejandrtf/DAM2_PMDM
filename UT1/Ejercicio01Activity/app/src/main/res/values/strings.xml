@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Ejercicio01Activity</string>
+    <string name="labelName">Introduce tu nombre</string>
+    <string name="hintNombre">introduce tu nombre</string>
+    <string name="saludoGenerico">"Hola, "</string>
+    <string name="aceptar">ACEPTAR</string>
+    <string name="limpiar">LIMPIAR</string>
+    <string name="ocultar">OCULTAR</string>
+    <string name="mostrar">MOSTRAR</string>
+</resources>
+
+
+
+
+
+

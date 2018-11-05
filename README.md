@@ -1,24 +1,23 @@
 # DAM2_PMDM
-Ejemplos y ejercicios del módulo PMDM del ciclo DAM
+Ejemplos y ejercicios vistos en clase para el módulo PMDM de 2º DAM.
+
 ## UT1
-* **Ej1_Saludo2Activities**. Primer ejemplo visto en clase que saluda usando dos activities.
-## UT2
-* **GestionPermisosEjemplo1**. En este ejemplo se muestra cómo se gestionan los permisos en Android 6.0
+* **Ejercicio 01-Activity-Saludo**. Programa que pide tu nombre y al pulsar un botón te saluda y otro botón te limpia el cuadro de texto. Lo tenéis accesible en este commit: "**Ejercicio 1 subido completo**".https://github.com/alejandrtf/DAM2_PMDM/commit/faee6a235962423df1b5a0fcaac8a7fa6ab0dc97 y pulsando en **Browse files**.
+
+* **Ejercicio 01-Activity-Saludo-Versión 2**. Incluye dos nuevos botones: OCULTAR y MOSTRAR que han sido programados de diferentes maneras; OCULTAR hemos usado la propiedad onClick de XML y MOSTRAR hemos usado los interfaces de java. Lo tenéis accesible en este commit: "**Ejercicio 1 Versión2:incluye botón ocultar y mostrar**": https://github.com/alejandrtf/DAM2_PMDM/commit/855c0c4a42edc1ada8cf7f23c61a888f157d420a
+
+* **Ejercicio 01-Activity-Saludo-Versión 3**. En esta versión se han quitado todos los textos que habíamos escrito manualmente y se han pasado al fichero strings.xml que está en /res/values dentro del proyecto para así permitir localización. Lo tenéis accesible en este commit: "**Ejercicio 1 Versión3_Buena:cambiando los textos escritos a textos en recursos/values/strings.xml**": https://github.com/alejandrtf/DAM2_PMDM/commit/beca174f3f01d05aaca0cd0d413b8c472d2021eb
+
+* **Ejercicio 02-Activity-Saludo-Con 2 Activities**. En este ejercicio se practica el uso de Intent para lanzar otra activity que no es la principal. En la pantalla principal pedimos el nombre al usuario y al pulsar el botón Aceptar, se lanza otra activity donde se le saluda por su nombre.
+
 ## UT3
-* **EJ2_ActivityGuardarEstado**. Modificación del primer ejemplo visto en clase para que guarde el estado al girar el dispositivo. Debe guardar el estado del botón MOSTRAR/OCULTAR así como de la etiqueta y cuadro de texto superiores.
-* **ActivityEjercicio02**. Ejercicio que muestra como gestionar a través de los métodos callback el ciclo de vida de una Activity
+* **Ejercicio 02-Activity-Saludo-Con 2 Activities-que pide edad y la devuelve al MainActivity**. Programa que pide tu nombre y al pulsar un botón te saluda en otra pantalla y en esa segunda pantalla te pide además la edad. Si pulsas ACEPTAR te envía la edad al MainActiviy y la verás en la parte de abajo de la pantalla. Es un ejemplo de onActivityResult().
+
 ## UT4
-* **LayoutEjercicio08-2**. Ejercicio que muestra cómo usar un LinearLayout diferente para pantalla vertical y horizontal y manejo de LinearLayout
-* **LayoutEjercicio08-3**. Modificación del Ejercicio LayoutEjercicio08-2 para que al pulsar sobre dos bandas de colores (primero una y luego otra) se intercambien sus textos.
-* **LayoutEjercicio08-4**. Modiificación del ejercicio LayoutEjercicio08-3 en la que ahora se intercambia tanto el texto, como el color de las bandas (y el color del texto de las bandas)
-* **LayoutsEjercicio12-1**. Ejemplo de uso de un RelativeLayout:  textviews de colores distribuidos por la pantalla
-* **LayoutsEjercicio12-2**. Modificación del ejercicio LayoutsEjecicio12-1 en la que se debe añadir una imagen de fondo al layout y añadir transparencia a los cuadros de texto
-* **EditText-Ejercicio-15-1**. Es un ejercicio para practicar con EditText y sus eventos.
-* **CheckBoxes-y-RadioButton-Ej16** . Ejercicio que muestra cómo usar CheckBox y RadioButton en Android. Corresponde al ejercicio 16 del Tema 4 de Interfaz de Usuario.
-* **SpinnerEjercicio15Bis**. Ejercicio para practicar el uso de un Spinner y sus eventos.
-* **ListViewPersonalizadaEj19**. Ejercicio para practicar la creación de una ListView con adaptador personalizado pero sin usar el patrón ViewHolder
-* **ListViewPersonalizadaEj19Bis**. Modificación del ejercicio ListViewPersonalizadaEj19 para aplicarle el patrón ViewHolder.
-* **ListViewEjercicio21Complicado**. Ejercicio más avanzado sobre ListView en el que se añaden elementos a una ListView en tiempo de ejecución, se editan y se activan y desactivan botones en tiempo de ejecución. Sólo resuelve la parte 1 del enunciado (sin botón CANCEL).
-* **ListViewEjercicio21Complicado-2**. Parte 2 del ejercicio ListViewEjercicio21Complicado, donde se añade el botón cancelar, en el caso de entrar en el modo edición.
-## UT5
-* **EjemploFragmentsEstáticoPresencial**. Es el ejemplo hecho en clase de fragments estáticos (el de los equipos de fútbol)
+* **LayoutEj02-Bandas de colores-Versión 1**. Programa que muestra 7 bandas de colores de forma horizontal e igualmente distribuidas sobre un LinearLayout vertical. Además al pulsar sobre cada banda, se muestra un Toast informando de qué color se ha pulsado. Esta VERSIÓN 1 está hecho programando el evento onClick en el XML. Lo tenéis accesible en este commit: "**Layout Ej02-Bandas de Colores-Versión 1-Corregido pequeño error**": https://github.com/alejandrtf/DAM2_PMDM/tree/94c9d4019bc901600412236de883fb8ea0d832dc/UT4/LayoutEj02BandasColores
+
+* **LayoutEj02-Bandas de colores-Versión 2**. Esta VERSIÓN 2 del ejercicio anterior está hecha programando el evento onClick sobre cada banda asociando un nuevo OnClickListener interface anónimo en cada una de las bandas. Lo tenéis accesible en este commit: "**Layout Ej02-Bandas de Colores-Versión 2-Subido Completo**": https://github.com/alejandrtf/DAM2_PMDM/tree/4d35a27115733e393cc3c11bc57f16892980b0c0/UT4/LayoutEj02BandasColores
+
+* **LayoutEj02-Bandas de colores-Versión 3**. Esta VERSIÓN 3 del ejercicio anterior está hecha implementando el listener OnClickListener en la clase MainActivity y no como interface anónimo en cada banda. Se ahorra mucho código. Lo tenéis accesible en este commit: "**Layout Ej02-Bandas de Colores-Versión 3-Subido Completo**": https://github.com/alejandrtf/DAM2_PMDM/tree/61e9f18eff78ead9108985fc95aaf2b157a97032/UT4/LayoutEj02BandasColores 
+
+
