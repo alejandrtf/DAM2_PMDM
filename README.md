@@ -19,5 +19,10 @@ Ejemplos y ejercicios vistos en clase para el módulo PMDM de 2º DAM.
 * **LayoutEj02-Bandas de colores-Versión 2**. Esta VERSIÓN 2 del ejercicio anterior está hecha programando el evento onClick sobre cada banda asociando un nuevo OnClickListener interface anónimo en cada una de las bandas. Lo tenéis accesible en este commit: "**Layout Ej02-Bandas de Colores-Versión 2-Subido Completo**": https://github.com/alejandrtf/DAM2_PMDM/tree/4d35a27115733e393cc3c11bc57f16892980b0c0/UT4/LayoutEj02BandasColores
 
 * **LayoutEj02-Bandas de colores-Versión 3**. Esta VERSIÓN 3 del ejercicio anterior está hecha implementando el listener OnClickListener en la clase MainActivity y no como interface anónimo en cada banda. Se ahorra mucho código. Lo tenéis accesible en este commit: "**Layout Ej02-Bandas de Colores-Versión 3-Subido Completo**": https://github.com/alejandrtf/DAM2_PMDM/tree/61e9f18eff78ead9108985fc95aaf2b157a97032/UT4/LayoutEj02BandasColores 
+* **EjemploBotonesPersonalizados**. Programa que muestra cómo hacer que la imagen de un botón cambien en función de su estado: pulsado, no pulsado.
 
+## UT10
+* **EjemploReceptorSMS**. Programa que muestra cómo reaccionar ante la llegada de un SMS. Se cargará una nueva activity.
+* **EjemploReceptorPropio**. Programa que muestra cómo configurar anuncios propios y registrar en código una receptor de anuncias que responda a esos anuncios. El ejemplo está hecho con un Servicio de Música que cuando lo paramos guarda la posición y al arrancar de nuevo continúa donde lo dejó.
+* **Ejemplo PermisosMarshmallow**. Programa de ejemplo de cómo solicitar permisos en Android 6.0 y superior
 
