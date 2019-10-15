@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     Button btMiBotonAceptar;
     Button btMiBotonLimpiar;
     Button btMostrar;
-
+    Button btMostrar2;
 
 
     @Override
